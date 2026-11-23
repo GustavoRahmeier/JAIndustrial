@@ -816,7 +816,7 @@ address {
 }
 @media (max-width: 820px) {
   .hero {
-    --hero-pos: 68% center;
+    --hero-pos: center center;
     min-height: 100vh;
     min-height: 100svh;
   }
