@@ -1,0 +1,6 @@
+JA Industrial - site institucional
+Abra index.html. Para trocar uma foto, substitua o arquivo em assets/images/ mantendo o mesmo nome.
+As imagens atuais são texturas provisórias geradas para teste; substitua por fotos reais.
+Formulário: sem integração. Para ativar, preencha data-endpoint no <form id="form"> com a URL de um serviço de formulários (ou implemente WhatsApp/e-mail em js/main.js).
+Mapa: troque o parâmetro q= no src do iframe em index.html.
+Páginas de Política de Privacidade e Termos de Uso são provisórias.
